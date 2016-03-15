@@ -1,0 +1,39 @@
+button, div, form, input {
+           margin: 10px;
+       }
+body {
+	background-color: #F8F8F8 ;
+}
+
+button, #search-submit {
+	background-color: teal;
+	color: white;
+	border-radius: 5px;
+	border: solid;
+}
+
+#add-band {
+	border-color: teal;
+	background-color: white;
+	border-radius: 5px;
+}
+
+/*#gifView {
+	float: left;
+}*/
+
+#gif-form {
+	float: right;
+	display: inline;
+}
+
+/*.row {
+	display: inline;
+}*/
+.resultElement {
+	float: left;
+}
+
+#gifView {
+	width: 75%;
+}
